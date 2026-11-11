@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+dist/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+# Third-party driver installer (downloaded and hash-checked by build.ps1)
+installer/redist/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
